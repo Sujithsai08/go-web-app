@@ -8,8 +8,8 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'helm/**'
-      - 'k8s/**'
+      - 'go-web-app-chart/**'
+      - 'kubernetes/**'
       - 'README.md'
 
 jobs:
